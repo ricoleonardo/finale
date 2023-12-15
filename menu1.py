@@ -8,7 +8,7 @@ from datetime import timedelta, date
 
 root = Tk()
 root.title(" Pinoy Business Sales Menu ")
-root.geometry("900x500")
+root.geometry("810x500")
 df = None
 
 # Databases

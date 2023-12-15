@@ -1,5 +1,5 @@
 # finale
 
-Enhance the Pinoy Business Sales Quiz
+Gui Output Pinoy Business Sales Quiz
 
-
+![Alt text](image.png)
